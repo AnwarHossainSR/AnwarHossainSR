@@ -2,7 +2,7 @@
 
 - 🔭 CHeck here for further info:
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Programmer, Developer, and Content Creator!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
