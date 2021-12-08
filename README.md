@@ -1,4 +1,4 @@
-### Hi there, I'm Anwar - Hossain [portfolio][website] 👋
+### Hi there, I'm Anwar - Hossain [Portfolio][website] 👋
 
 - 🔭 CHeck here for further info:
 
