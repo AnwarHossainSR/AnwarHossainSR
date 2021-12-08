@@ -1,4 +1,4 @@
-###<h1 align="center">Hi 👋, I'm Anwar Hossain</h1>
+<h1 align="center">Hi 👋, I'm Anwar Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 ## I'm a Programmer, Developer, and Content Creator!!
