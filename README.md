@@ -8,6 +8,8 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch football, cricket and movies
 
+<a href="https://app.daily.dev/AnwarSR"><img src="https://api.daily.dev/devcards/f6ec2cb1c2b347848377ff5f79bd77b4.png?r=gb3" width="400" alt="Anwar Hossain's Dev Card"/></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anwarhossainsr&label=Profile%20views&color=0e75b6&style=flat" alt="anwarhossainsr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anwarhossainsr" alt="anwarhossainsr" /></a> </p>
