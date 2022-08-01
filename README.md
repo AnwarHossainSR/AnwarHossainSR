@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnwarHossainSR?tab=repositories](https://github.com/AnwarHossainSR?tab=repositories)
 
-- 📝 I regularly write articles on [http://portfolioanwar.herokuapp.com/](http://portfolioanwar.herokuapp.com/)
+- 📝 I regularly write articles on [http://portfolioanwar.herokuapp.com/](http://anwarportfolio.netlify.app/)
 
 - 💬 Ask me about **java-script,react,laravel,asp.net,MERN-Stack**
 
