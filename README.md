@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnwarHossainSR?tab=repositories](https://github.com/AnwarHossainSR?tab=repositories)
 
-- 📝 I regularly write articles on [http://anwarportfolio.netlify.app/](http://anwarportfolio.netlify.app/)
+- 📝 I regularly write articles on [http://anwarportfolio.netlify.app/](https://anwarportfolio.vercel.app/)
 
 - 💬 Ask me about **java-script,react,laravel,asp.net,MERN-Stack**
 
 - 📫 How to reach me **anwarmahedisr@gmail.com**
 
-- 📄 Know about my experiences [https://anwarportfolio.netlify.app/](https://anwarportfolio.netlify.app/)
+- 📄 Know about my experiences [https://anwarportfolio.vercel.app/](https://anwarportfolio.vercel.app/about)
 
 - ⚡ Fun fact **I think i am funny as well as hard worker**
 
