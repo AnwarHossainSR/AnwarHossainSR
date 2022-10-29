@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [http://anwarportfolio.vercel.app/](https://anwarportfolio.vercel.app/)
 
-- 💬 Ask me about **java-script,react,laravel,MERN-Stack**
+- 💬 Ask me about **Java-script,React,Laravel,Node Js, MERN-Stack**
 
 - 📫 How to reach me **anwarmahedisr@gmail.com**
 
