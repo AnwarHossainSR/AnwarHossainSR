@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anwarhossainsr" alt="anwarhossainsr" /></a> </p>
 
-- 🔭 I’m currently working on **Several Project**
+- 🔭 I’m currently working on **B2B Matching Platform Project**
 
-- 🌱 I’m currently learning **next-js,nest-js and graphql**
+- 🌱 I’m currently learning **Microservices, AWS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AnwarHossainSR?tab=repositories](https://github.com/AnwarHossainSR?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/AnwarHossainSR?tab=repositories](Reository)
 
-- 📝 I regularly write articles on [http://anwarportfolio.vercel.app/](https://anwarportfolio.vercel.app/)
+- 📝 I regularly update portfolio [http://anwarportfolio.vercel.app/](Portfolio)
 
 - 💬 Ask me about **Java-script,React,Laravel,Node Js, MERN-Stack**
 
 - 📫 How to reach me **anwarmahedisr@gmail.com**
 
-- 📄 Know about my experiences [https://anwarportfolio.vercel.app/](https://anwarportfolio.vercel.app/about)
+- 📄 Know about my experiences [https://anwarportfolio.vercel.app/](About)
 
 - ⚡ Fun fact **I think i am funny as well as hard worker**
 
