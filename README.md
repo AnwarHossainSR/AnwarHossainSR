@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **Microservices, AWS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AnwarHossainSR?tab=repositories](https://github.com/AnwarHossainSR?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repository](https://github.com/AnwarHossainSR?tab=repositories)
 
-- 📝 I regularly update portfolio [http://anwarportfolio.vercel.app/portfolio](https://anwarportfolio.vercel.app/portfolio)
+- 📝 I regularly update portfolio [Portfolios](https://anwarportfolio.vercel.app/portfolio)
 
 - 💬 Ask me about **Java-script,React,Laravel,Node Js, MERN-Stack**
 
 - 📫 How to reach me **anwarmahedisr@gmail.com**
 
-- 📄 Know about my experiences [https://anwarportfolio.vercel.app/portfolio](https://anwarportfolio.vercel.app/)
+- 📄 Know about my experiences [Personal Portfolio](https://anwarportfolio.vercel.app/)
 
 - ⚡ Fun fact **I think i am funny as well as hard worker**
 
