@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anwarhossainsr&theme=onedark" alt="anwarhossainsr" /></a> </p>
 
-- 🔭 I’m currently working on **B2B Multi Vendor Project**
+- 🔭 I’m currently working on **Infand Interview Process Project**
 
-- 🌱 I’m currently learning **Microservices, AWS**
+- 🌱 I’m currently learning **Open AI, Microservices, AWS**
 
 - 👨‍💻 All of my projects are available at [Repository](https://github.com/AnwarHossainSR?tab=repositories)
 
