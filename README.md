@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Infant Interview Process Project**
 
-- 🌱 I’m currently learning **Open AI, Microservices, AWS**
+- 🌱 I’m currently learning **Open AI, Microservices, AWS, Drupal**
 
 - 👨‍💻 All of my projects are available at [Repository](https://github.com/AnwarHossainSR?tab=repositories)
 
