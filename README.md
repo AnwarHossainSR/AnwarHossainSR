@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **Infant Interview Process Project**
 
-- 🌱 I’m currently learning **Open AI, Microservices, AWS, Drupal**
+- 🌱 I’m currently learning **Machine Learning, Open AI, Microservices, AWS**
 
 - 👨‍💻 All of my projects are available at [Repository](https://github.com/AnwarHossainSR?tab=repositories)
 
 - 📝 I regularly update portfolio [Portfolios](https://anwarportfolio.vercel.app/portfolio)
 
-- 💬 Ask me about **Java-script,React,Laravel,Node Js, MERN-Stack**
+- 💬 Ask me about **Python,PHP,Java-script,Django,React,Laravel,Node Js and MERN-Stack**
 
 - 📫 How to reach me **anwarmahedisr@gmail.com**
 
