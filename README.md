@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **anwarmahedisr@gmail.com**
 
-- 📄 Know about my experiences [Personal Portfolio](https://anwarportfolio.vercel.app/)
+- 📄 Know about my experiences [Personal Portfolio](https://anwarportfolio.vercel.app/about)
 
 - ⚡ Fun fact **I think i am funny as well as hard worker**
 
