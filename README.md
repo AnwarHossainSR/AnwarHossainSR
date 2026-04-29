@@ -27,7 +27,7 @@ Senior Full Stack Engineer with **5+ years** of experience building scalable, cl
 - 🏆 **Best Employee of the Year 2023** — BJIT Group Ltd.
 - 💬 Ask me about **React, Next.js, Node.js, AWS, Laravel, Python, Microservices**
 - 📄 Resume & experience: [anwarportfolio.vercel.app/about](https://anwarportfolio.vercel.app/about)
-- 📫 Reach me at **mahedianwar@gmail.com**
+- 📫 Reach me at **anwarmahedisr@gmail.com**
 - ⚡ Fun fact: I think I'm funny *and* a hard worker — rarely both at once
 
 ---
