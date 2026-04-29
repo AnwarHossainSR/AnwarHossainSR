@@ -1,46 +1,116 @@
-<h1 align="center">Hi 👋, I'm Anwar Hossain</h1>
-<h3 align="center">A passionate full-stack developer from Bangladesh</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anwarhossainsr&label=Profile%20views&color=0e75b6&style=flat" alt="anwarhossainsr" /> </p>
+# Anwar Hossain Sarker
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anwarhossainsr&theme=onedark" alt="anwarhossainsr" /></a> </p>
+### Senior Full Stack Engineer
 
-- 🔭 I’m currently working on **AWS Serverless Media Streaming**
+**React · Next.js · Node.js · TypeScript · AWS Serverless · DevOps**
 
-- 🌱 I’m currently learning **Machine Learning, Open AI, Microservices, AWS**
+[![Portfolio](https://img.shields.io/badge/Portfolio-anwarportfolio.vercel.app-0D4F5C?style=flat-square&logo=vercel&logoColor=white)](https://anwarportfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anwarsr-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anwarsr)
+[![Email](https://img.shields.io/badge/Email-mahedianwar@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mahedianwar@gmail.com)
+[![Dev.to](https://img.shields.io/badge/Dev.to-anwarsr-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/anwarsr)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-12080941-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/12080941)
+[![LeetCode](https://img.shields.io/badge/LeetCode-anwarmahedisr-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/anwarmahedisr)
 
-- 👨‍💻 All of my projects are available at [Repository](https://github.com/AnwarHossainSR?tab=repositories)
+</div>
 
-- 📝 I regularly update portfolio [Portfolios](https://anwarportfolio.vercel.app/portfolio)
+---
 
-- 💬 Ask me about **Python,PHP,Java-script,Django,React,Laravel,Node Js and MERN-Stack**
+## About Me
 
-- 📫 How to reach me **anwarmahedisr@gmail.com**
+Senior Full Stack Engineer with **5+ years** of experience building scalable, cloud-native web applications and microservices. Currently at **Craftsmen Ltd.** building SaaS data visualization platforms and AWS serverless media streaming infrastructure.
 
-- 📄 Know about my experiences [Personal Portfolio](https://anwarportfolio.vercel.app/about)
+- 🔭 Currently working on **AWS Serverless Media Streaming & VOD pipelines**
+- 🌱 Exploring **Machine Learning, OpenAI integrations & advanced Microservices patterns**
+- 🏆 **Best Employee of the Year 2023** — BJIT Group Ltd.
+- 💬 Ask me about **React, Next.js, Node.js, AWS, Laravel, Python, Microservices**
+- 📄 Resume & experience: [anwarportfolio.vercel.app/about](https://anwarportfolio.vercel.app/about)
+- 📫 Reach me at **mahedianwar@gmail.com**
+- ⚡ Fun fact: I think I'm funny *and* a hard worker — rarely both at once
 
-- ⚡ Fun fact **I think i am funny as well as hard worker**
+---
 
+## Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/anwarsr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@anwrsr" height="30" width="40" /></a>
-<a href="https://twitter.com/mahedianwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahedianwar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anwarsr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anwarsr" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12080941" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12080941" height="30" width="40" /></a>
-<a href="https://fb.com/mahedisr007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahedisr007" height="30" width="40" /></a>
-<a href="https://instagram.com/mahedi_hasan_sr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahedi_hasan_sr" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@developmentkit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="development kit" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mahedianwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahedianwar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anwarmahedisr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anwarmahedisr" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@mahedianwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mahedianwar" height="30" width="40" /></a>
-</p>
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anwarhossainsr&show_icons=true&locale=en&layout=compact&theme=onedark" alt="anwarhossainsr" /></p>
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anwarhossainsr&show_icons=true&locale=en&theme=onedark" alt="anwarhossainsr" /></p>
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anwarhossainsr&theme=onedark" alt="anwarhossainsr" /></p>
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=anwarhossainsr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Anwar's GitHub Stats" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwarhossainsr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=anwarhossainsr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## Experience Highlights
+
+| Company | Role | Period |
+|---|---|---|
+| **Craftsmen Ltd.** | Software Development Engineer II | May 2024 – Present |
+| **BJIT Group Ltd.** | Software Engineer | Aug 2021 – May 2024 |
+| **Annonlab** | Junior Software Engineer | Mar 2021 – Aug 2021 |
+
+---
+
+## Certifications & Achievements
+
+- 🏆 **Best Employee of the Year 2023** — BJIT Group Ltd.
+- ☁️ **AWS** — Lambda, API Gateway, ECS, DynamoDB, S3, Cognito, CloudFront, MediaServices
+- 🎓 **B.Sc. Computer Science** — AIUB (CGPA: 3.92 / 4.00)
+
+---
+
+<div align="center">
+
+*Open to remote and relocation opportunities — let's build something great together.*
+
+[![Profile Views](https://komarev.com/ghpvc/?username=anwarhossainsr&color=0D4F5C&style=flat-square&label=Profile+Views)](https://github.com/AnwarHossainSR)
+
+</div>
