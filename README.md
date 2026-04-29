@@ -12,6 +12,7 @@
 [![Dev.to](https://img.shields.io/badge/Dev.to-anwarsr-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/anwarsr)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-12080941-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/12080941)
 [![LeetCode](https://img.shields.io/badge/LeetCode-anwarmahedisr-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/anwarmahedisr)
+[![HackerRank](https://img.shields.io/badge/HackerRank-mahedianwar-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/mahedianwar)
 
 </div>
 
@@ -41,6 +42,7 @@ Senior Full Stack Engineer with **5+ years** of experience building scalable, cl
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -49,8 +51,10 @@ Senior Full Stack Engineer with **5+ years** of experience building scalable, cl
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
@@ -60,6 +64,7 @@ Senior Full Stack Engineer with **5+ years** of experience building scalable, cl
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -75,21 +80,21 @@ Senior Full Stack Engineer with **5+ years** of experience building scalable, cl
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=anwarhossainsr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Anwar's GitHub Stats" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwarhossainsr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=anwarhossainsr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Anwar's GitHub Stats" />
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwarhossainsr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=anwarhossainsr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anwarhossainsr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## Experience Highlights
+## Experience
 
 | Company | Role | Period |
 |---|---|---|
@@ -99,7 +104,7 @@ Senior Full Stack Engineer with **5+ years** of experience building scalable, cl
 
 ---
 
-## Certifications & Achievements
+## Achievements
 
 - 🏆 **Best Employee of the Year 2023** — BJIT Group Ltd.
 - ☁️ **AWS** — Lambda, API Gateway, ECS, DynamoDB, S3, Cognito, CloudFront, MediaServices
