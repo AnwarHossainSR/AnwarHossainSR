@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-anwarportfolio.vercel.app-0D4F5C?style=for-the-badge&logo=vercel&logoColor=white)](https://anwarportfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anwarsr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anwarsr)
-[![Email](https://img.shields.io/badge/Email-mahedianwar@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahedianwar@gmail.com)
+[![Email](https://img.shields.io/badge/Email-anwarmahedisr@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anwarmahedisr@gmail.com)
 [![X](https://img.shields.io/badge/Twitter-mahedianwar-1D9BF0?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mahedianwar)
 
 [![Dev.to](https://img.shields.io/badge/Dev.to-anwarsr-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/anwarsr)
@@ -41,56 +41,7 @@ const anwar = {
 - 🏆 **Best Employee of the Year 2023** — BJIT Group Ltd.
 - 💬 Talk to me about **React, Next.js, Node.js, NestJS, AWS, Laravel, Python, Microservices**
 - 📄 Resume: [anwarportfolio.vercel.app/about](https://anwarportfolio.vercel.app/about)
-- 📫 Open to **remote & relocation** opportunities — [mahedianwar@gmail.com](mailto:mahedianwar@gmail.com)
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [⚡ nextjs-16-template](https://github.com/AnwarHossainSR/nextjs-16-template)
-![Stars](https://img.shields.io/github/stars/AnwarHossainSR/nextjs-16-template?style=flat-square&color=0D4F5C&label=★)
-![Forks](https://img.shields.io/github/forks/AnwarHossainSR/nextjs-16-template?style=flat-square&color=0D4F5C&label=⑂)
-
-Production-ready **Next.js 16** boilerplate — TypeScript, Tailwind, ESLint, Prettier, auth-ready, opinionated structure. Zero-config startup for serious apps.
-
-🌐 [latest-nextjs-template.vercel.app](https://latest-nextjs-template.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
-### [⚛️ react-boilerplate](https://github.com/AnwarHossainSR/react-boilerplate)
-![Stars](https://img.shields.io/github/stars/AnwarHossainSR/react-boilerplate?style=flat-square&color=0D4F5C&label=★)
-![Forks](https://img.shields.io/github/forks/AnwarHossainSR/react-boilerplate?style=flat-square&color=0D4F5C&label=⑂)
-
-Minimal, scalable **React 19** template — Vite, TypeScript, Redux Toolkit, routing, testing. Start a new project in seconds, scale it for years.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [🛠️ dev-toolbox](https://github.com/AnwarHossainSR/dev-toolbox)
-Open-source collection of everyday developer utilities — JSON, regex, encoders, JWT inspector, and more. Privacy-first, runs in the browser.
-
-🌐 [dev-toolbox-seven.vercel.app](https://dev-toolbox-seven.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
-### [🤖 AI-Powered-CV-Analysis](https://github.com/AnwarHossainSR/AI-Powered-CV-Analysis)
-LLM-driven résumé scoring and gap analysis. Built with Next.js, OpenAI, and structured-output parsing.
-
-🌐 [ai-powered-cv-analysis.vercel.app](https://ai-powered-cv-analysis.vercel.app)
-
-</td>
-</tr>
-</table>
-
-> 281 public repos and counting — explore the full catalog at [github.com/AnwarHossainSR?tab=repositories](https://github.com/AnwarHossainSR?tab=repositories)
+- 📫 Open to **remote & relocation** opportunities — [anwarmahedisr@gmail.com](mailto:anwarmahedisr@gmail.com)
 
 ---
 
@@ -234,7 +185,7 @@ LLM-driven résumé scoring and gap analysis. Built with Next.js, OpenAI, and st
 
 *Open to remote work and relocation opportunities — happy to chat about engineering, AI, or what's next.*
 
-<a href="mailto:mahedianwar@gmail.com"><img src="https://img.shields.io/badge/Say%20Hi%20%F0%9F%91%8B-mahedianwar@gmail.com-0D4F5C?style=for-the-badge" alt="Say Hi"/></a>
+<a href="mailto:anwarmahedisr@gmail.com"><img src="https://img.shields.io/badge/Say%20Hi%20%F0%9F%91%8B-anwarmahedisr@gmail.com-0D4F5C?style=for-the-badge" alt="Say Hi"/></a>
 
 <sub>✨ Crafted with care — last polished May 2026.</sub>
 
