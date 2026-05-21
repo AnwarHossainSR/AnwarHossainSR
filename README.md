@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://anwarportfolio.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=0D4F5C&center=true&vCenter=true&width=720&lines=Anwar+Hossain+Sarker;Senior+Full+Stack+Engineer+%C2%B7+SDE+II+%40+Craftsmen+Ltd.;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+AWS+Serverless+%C2%B7+DevOps;Building+SaaS+%C2%B7+Data+Viz+%C2%B7+Streaming+%C2%B7+AI+Agents" alt="Anwar Hossain Sarker" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=0D4F5C&center=true&vCenter=true&width=600&lines=Anwar+Hossain+Sarker;Senior+Full+Stack+Engineer;SDE+II+%40+Craftsmen+Ltd.;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+AWS;Building+SaaS+%C2%B7+Streaming+%C2%B7+AI+Agents" alt="Anwar Hossain Sarker" />
 </a>
 
 <br/>
@@ -167,13 +167,6 @@ LLM-driven résumé scoring and gap analysis. Built with Next.js, OpenAI, and st
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<a href="https://github.com/AnwarHossainSR">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnwarHossainSR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnwarHossainSR&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</a>
-
-<br/>
 
 <a href="https://github.com/AnwarHossainSR">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnwarHossainSR&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
