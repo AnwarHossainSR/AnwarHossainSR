@@ -1,10 +1,12 @@
-<div align="center">
+p<div align="center">
 
 <a href="https://anwarportfolio.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=0D4F5C&center=true&vCenter=true&width=600&lines=Anwar+Hossain+Sarker;Senior+Full+Stack+Engineer;SDE+II+%40+Craftsmen+Ltd.;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+AWS;Building+SaaS+%C2%B7+Streaming+%C2%B7+AI+Agents" alt="Anwar Hossain Sarker" />
 </a>
 
 <br/>
+
+test
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-anwarportfolio.vercel.app-0D4F5C?style=for-the-badge&logo=vercel&logoColor=white)](https://anwarportfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anwarsr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anwarsr)
