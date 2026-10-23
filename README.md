@@ -7,7 +7,10 @@
 <div align="center">
 
 <a href="https://anwarportfolio.vercel.app">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D4F5C,100:14B8A6&height=220&section=header&text=Anwar%20Hossain%20Sarker&fontSize=50&fontColor=FFFFFF&fontAlignY=36&desc=Senior%20Full%20Stack%20Engineer%20%C2%B7%20SaaS%20%C2%B7%20AWS%20%C2%B7%20AI%20Agents&descSize=18&descAlignY=58&animation=fadeIn" alt="Anwar Hossain Sarker, Senior Full Stack Engineer" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D4F5C%2C100:14B8A6&height=220&section=header&text=Anwar%20Hossain%20Sarker&fontSize=50&fontColor=FFFFFF&fontAlignY=36&desc=Senior%20Full%20Stack%20Engineer%20%C2%B7%20SaaS%20%C2%B7%20AWS%20%C2%B7%20AI%20Agents&descSize=18&descAlignY=58&animation=fadeIn" />
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,100:99F6E4&height=220&section=header&text=Anwar%20Hossain%20Sarker&fontSize=50&fontColor=0D4F5C&fontAlignY=36&desc=Senior%20Full%20Stack%20Engineer%20%C2%B7%20SaaS%20%C2%B7%20AWS%20%C2%B7%20AI%20Agents&descSize=18&descAlignY=58&animation=fadeIn" alt="Anwar Hossain Sarker, Senior Full Stack Engineer" />
+  </picture>
 </a>
 
 <a href="https://anwarportfolio.vercel.app">
@@ -28,7 +31,6 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-12080941-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/12080941)
 [![LeetCode](https://img.shields.io/badge/LeetCode-anwarmahedisr-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/anwarmahedisr)
 [![HackerRank](https://img.shields.io/badge/HackerRank-mahedianwar-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/mahedianwar)
-[![Profile Views](https://komarev.com/ghpvc/?username=AnwarHossainSR&color=0D4F5C&style=flat-square&label=Profile+Views)](https://github.com/AnwarHossainSR)
 [![Open to](https://img.shields.io/badge/Open%20to-Remote%20%26%20Relocation-14B8A6?style=flat-square)](mailto:anwarmahedisr@gmail.com)
 
 <sub>
@@ -88,7 +90,7 @@ const anwar = {
     <td align="center" width="140"><b>🎨 Frontend</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,redux,vue,tailwind,sass&theme=light" />
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Cts%2Credux%2Cvue%2Ctailwind%2Csass&theme=light" />
         <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,vue,tailwind,sass" alt="React, Next.js, TypeScript, Redux, Vue.js, Tailwind CSS, Sass" />
       </picture>
       <br/><sub>React · Next.js · TypeScript · Redux · Vue.js · Tailwind CSS · Sass · React Native · Highcharts</sub>
@@ -98,7 +100,7 @@ const anwar = {
     <td align="center"><b>⚙️ Backend</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,py,django,fastapi,graphql,php,go&theme=light" />
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cnestjs%2Claravel%2Cpy%2Cdjango%2Cfastapi%2Cgraphql%2Cphp%2Cgo&theme=light" />
         <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,py,django,fastapi,graphql,php,go" alt="Node.js, Express.js, NestJS, Laravel, Python, Django, FastAPI, GraphQL, PHP, Go" />
       </picture>
       <br/><sub>Node.js · Express.js · NestJS · Laravel · Python · Django · FastAPI · GraphQL · PHP · Go</sub>
@@ -108,7 +110,7 @@ const anwar = {
     <td align="center"><b>☁️ Cloud &amp; DevOps</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,githubactions,nginx,vercel&theme=light" />
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws%2Cazure%2Cdocker%2Ckubernetes%2Cterraform%2Cgithubactions%2Cnginx%2Cvercel&theme=light" />
         <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,githubactions,nginx,vercel" alt="AWS, Azure, Docker, Kubernetes, Terraform, GitHub Actions, Nginx, Vercel" />
       </picture>
       <br/><sub>AWS · Azure · Serverless · Docker · Kubernetes · Terraform · GitHub Actions · Nginx · Vercel</sub>
@@ -118,7 +120,7 @@ const anwar = {
     <td align="center"><b>🗄️ Data</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,dynamodb,redis,firebase,supabase&theme=light" />
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres%2Cmysql%2Cmongodb%2Cdynamodb%2Credis%2Cfirebase%2Csupabase&theme=light" />
         <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,dynamodb,redis,firebase,supabase" alt="PostgreSQL, MySQL, MongoDB, DynamoDB, Redis, Firebase, Supabase" />
       </picture>
       <br/><sub>PostgreSQL · MySQL · MongoDB · DynamoDB · Redis · Firebase · Supabase</sub>
@@ -188,18 +190,6 @@ const anwar = {
 
 <a href="https://github.com/AnwarHossainSR">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnwarHossainSR&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for AnwarHossainSR" />
-</a>
-
-<br/>
-
-<a href="https://github.com/AnwarHossainSR">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnwarHossainSR&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub profile trophies for AnwarHossainSR" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/AnwarHossainSR">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnwarHossainSR&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph for AnwarHossainSR" />
 </a>
 
 </div>
@@ -302,6 +292,9 @@ links:
 
 <sub>✨ Crafted with care. Last polished October 2026.</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:0D4F5C&height=120&section=footer" alt="" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6%2C100:0D4F5C&height=120&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:99F6E4,100:2DD4BF&height=120&section=footer" alt="" />
+</picture>
 
 </div>
